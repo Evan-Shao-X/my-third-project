@@ -1,2 +1,7 @@
-# my-third-project
-第三个
+# 我的第一个GitHub项目
+这是我学习GitHub的第一个仓库！
+
+## 今天学到了什么
+- 什么是存储库（Repository）
+- 如何创建一个新仓库
+- 如何提交修改
